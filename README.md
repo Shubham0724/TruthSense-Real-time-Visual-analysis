@@ -1,1 +1,1 @@
-# TruthSense : Real-time Visual analysis
+# TruthSense : Real-time Visual Analysis
